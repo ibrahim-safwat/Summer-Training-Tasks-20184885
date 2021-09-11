@@ -1,0 +1,246 @@
+a {
+    color:black;
+    transition: 0.6s;
+    text-decoration:none !important;
+}
+
+a:hover {
+    color: #fff !important;
+    transition: 0.5s;
+    cursor:default !important;
+}
+
+.a1 {
+    color:black;
+    transition: 0.6s;
+    text-decoration:none !important;
+}
+
+.a2:hover {
+   
+    color: #F8AE7C !important;
+    transition: 0.5s;
+    cursor:default !important;
+    }
+.a2 {
+    color:black;
+    transition: 0.6s;
+    text-decoration:none !important;
+    }
+    
+.a1:hover {
+       
+    color: #F8AE7C !important;
+    transition: 0.5s;
+    cursor:default !important;
+        }
+
+.a3 {
+    color:black;
+    transition: 0.6s;
+    text-decoration:none !important;
+            }
+            
+.a3:hover {
+               
+    color: #F8AE7C !important;
+    transition: 0.5s;
+    cursor:default !important;
+                }
+
+
+.button1 {
+    background-color:#F8AE7C;
+    background: transparent;
+    border:none !important;
+    color: black;
+    transition: 0.5s;
+    box-sizing: border-box;
+    margin-right: 20%;
+}
+
+.button1:hover {
+    background-color: #F8AE7C;
+    transition: 0.5s;
+    color:#fff;
+    border-radius: 8%;
+    border-width: 95%;
+    border: 0.7px solid #F8AE7C;
+   
+    }
+
+.button2 {
+    background-color:#F8AE7C;
+    background: transparent;
+    border: none;
+    color: black;
+    transition: 0.5s;
+    box-sizing: border-box;
+    
+}
+
+.button2:hover {
+    background-color: #F8AE7C;
+    transition: 0.5s;
+    color: white;
+    border-radius: 8%;
+    border-width: 95%;
+    border: 0.7px solid #F8AE7C;
+    
+}
+
+
+.container-2 {
+    padding-top: 8%;
+}
+
+.con{
+    
+    width: 30% !important;
+    margin-top: 5%;
+    border-radius:3% 4%;
+    background-color: transparent;
+    font-style:initial; 
+    color:black; 
+    font-weight:lighter; 
+    margin-left: 30%;   
+}
+
+.con2{
+    
+    width: 30% !important;
+    margin-top: 5%;
+    border-radius:3% 4%;
+    background-color: transparent;
+    font-style:initial; 
+    color:black; 
+    font-weight:lighter; 
+    margin-left: 30%;   
+}
+
+.con3{
+    
+    width: 100% !important;
+    margin-top: 5%;
+    border-radius:3% 4%;
+    background-color: transparent;
+    font-style:initial; 
+    color:black; 
+    font-weight:lighter; 
+    margin-left: 10%;   
+}
+
+.con4{
+    
+    width: 100% !important;
+    margin-top: 5%;
+    border-radius:3% 4%;
+    background-color: transparent;
+    font-style:initial; 
+    color:black; 
+    font-weight:lighter; 
+    margin-left: 10%;   
+}
+
+
+input {
+    background-color: transparent !important;
+    border: 1px solid black !important;
+    transition: 0.5s;
+    border-bottom-width: 0px ;
+    color: white !important;
+    font-weight:lighter !important;
+    font-style:initial !important; 
+}
+
+input:hover {
+    border-bottom-width: 1px solid black !important;
+    transition: 0.5s;
+}
+
+.btn3, .btn4, .btn5 {
+    background-color:#F8AE7C !important;
+    border:none !important;
+    color: white !important;
+    transition: 0.5s;
+    box-sizing: border-box;
+    margin-right: auto !important;
+    font-weight:lighter !important;
+    font-style:initial !important;
+    border-radius: 8%;
+    border-width: 95% ; 
+}
+
+.btn3:hover, .btn4:hover, .btn5:hover {
+    background-color: black !important;
+    transition: 0.5s;
+    color: white !important;
+    border-radius: 8%;
+    border-width: 95% ;
+    border: 0.7px solid black !important;
+}
+
+label {
+    color:black;
+    transition: 0.6s;
+    text-decoration:none !important;
+}
+
+label:hover {
+    color: #F8AE7C !important;
+    transition: 0.5s;
+    cursor:default !important;
+}
+
+footer {
+    margin-bottom: 10% !important;
+    background-color: #F8AE7C !important;
+}
+
+.c5 {
+    margin-top: 10%;
+    background-color: #F8AE7C;
+}
+
+h3 {
+    transition: 0.5s;
+    color:black;
+    font-weight: lighter !important;
+    font-style: initial;
+}
+
+h3:hover {
+    color:white;
+    transition: 0.5s;
+    cursor:default !important;
+}
+
+.copyright {
+    transition: 0.5s;
+    color:black;
+    font-weight: lighter !important;
+    font-style: initial;
+}
+
+.copyright:hover {
+    color:white;
+    transition: 0.5s;
+    cursor:default !important;
+}
+
+.last{
+    transition: 0.5s;
+    color:black;
+    font-weight: lighter !important;
+    font-style: initial;
+}
+
+.last:hover {
+    color:white !important;
+    transition: 0.5s;
+    cursor:pointer !important;
+}
+
+.footer-clean {
+    background-color:#F8AE7C;
+}
